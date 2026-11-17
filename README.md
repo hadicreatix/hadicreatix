@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hadi 👋
 
-<!--
-**hadicreatix/hadicreatix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the creator behind **Hadi Creatix** and **Fable Mint** — stories, design, and digital content, made with care.
 
-Here are some ideas to get you started:
+## What I do
+- 🎨 Brand & graphic design
+- 📖 Timeless fables and storytelling (Fable Mint)
+- 🎬 Videos and creative content (Hadi Creatix)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me
+- 📺 YouTube: [Hadi Creatix](https://www.youtube.com/@HadiCreatix)
+- 📘 Facebook: [Fable Mint](https://www.facebook.com/61595706291082)
+- 🛍️ [Hadi Creatix Shopping Deals](https://sites.google.com/view/hadi-creatix-shopping-deals/home)
+
+Thanks for stopping by! ✨
